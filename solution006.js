@@ -22,7 +22,7 @@ function encodeDupes(str){
 console.log('din', '(((')
 console.log('recede', '(((')
 
-// could optimize this with a 2 pass solution
+// could optimize this with a 2 pass solution hash map
 
 //first pass counts the number of characters
 //second pass asigns open and close
